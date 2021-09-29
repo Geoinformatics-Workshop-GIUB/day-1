@@ -7,8 +7,9 @@
   - how to create training/validation data samples in QGIS. 
 
 ## At home you are supposed to...
-  - finish creating your training samples.
+  - wrap the creation of your training samples.
   - refresh your memory on how to visualize and interpret remote sensing imagery.
+  - read about basic Machine Learning concepts. 
 
 ---
   
