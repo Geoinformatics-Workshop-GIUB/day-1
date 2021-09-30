@@ -12,6 +12,8 @@
   - read about basic Machine Learning concepts. 
 
 ---
+
+# Part 0: Introduction
 ![This is an image](./classificationworkflow.png)
 
 # Part 1: Raster stacking and batch processing in R
@@ -25,12 +27,6 @@ A raster stack is essentially a stack of multiple raster layers that share the s
 This first assignment is separated in two parts:
 First, we manually create a raster stack out of a single Landsat-8 scene.
 Second, we automate this process using a loop, so that we can create raster stacks out of more than one L8 scenes at once (batch processing).
-
-These intermediate steps are necessary to successfully manage the first part:
-1.	Acquiring Landsat-8 files 
-2.	Creating a raster stack 
-3.	Saving the raster stack 
-4.	Deletion of redundant data
 
 [Link to the R code](./01_01_RasterStacking.R)
 
