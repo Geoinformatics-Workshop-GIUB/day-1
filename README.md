@@ -1,6 +1,6 @@
 # Day 1 - Welcome, Raster stacking, sampling of training data
 
-## During today's class you will learn... 
+## Today you will learn... 
 
   - how to create a raster stack of several satellite image bands, a form of pre-processing in R.
   - how to automate that process (batch processing) for an arbitrary amount of images in R.
