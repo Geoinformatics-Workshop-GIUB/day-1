@@ -34,4 +34,13 @@ These intermediate steps are necessary to successfully manage the first part:
 [Link to the R code](./p1_raster_stacking.R)
 
 ## Part 2: Creating training samples in QGIS
+
+Now that we have prepared our raster data, we need to create training samples in QGIS. 
+
+**What the heck are training samples?**
+
+Supervised algorithms generally make use of training data to, well, train their classification mechanisms. Simply put, the algorithms needs a reference for the classes you want them to distinguish. An example: If you want to classify forests and urban fabric, your the algorithm needs to be fed the spectral signatures of forest and urban pixels. Apart from tuning an algorithm's working parameters (hyperparameters), the selection of training data is one of the few ways, we, as users, can influence the classification outcome. Thus, the creation/selection of training data is a major part of any attempted supervised classification. The general idea is to create many polygons in QGIS and save them as a vector file. Each of the polygons should cover only a single, spectrally distinct land cover class e.g. forest, meadow, water... Then, we import our training areas to R to extract the spectral signatures of the pixels they cover. 
+
+[Link to the PDF assignment](./01_02_SamplingQGIS.pdf)
+
 ## @Home: Read about image visualization and Machine Learning
