@@ -13,7 +13,7 @@
 
 ---
   
-## Part 1: Raster stacking and batch processing in R
+# Part 1: Raster stacking and batch processing in R
 Landsat 8 remote sensing data is provided as individual georeferenced **.tif** images based on their spectral bands. In this task we would like to stack these images into a single geotiff-file, a so-called **_raster stack_**.  
 
 **What is a raster stack and why do we need it?**
@@ -33,7 +33,7 @@ These intermediate steps are necessary to successfully manage the first part:
 
 [Link to the R code](./p1_raster_stacking.R)
 
-## Part 2: Creating training samples in QGIS
+# Part 2: Creating training samples in QGIS
 
 Now that we have prepared our raster data, we need to create training samples in QGIS. 
 
@@ -43,4 +43,4 @@ Supervised algorithms generally make use of training data to, well, train their 
 
 [Link to the PDF assignment](./01_02_SamplingQGIS.pdf)
 
-## @Home: Read about image visualization and Machine Learning
+# @Home: Read about image visualization and Machine Learning
