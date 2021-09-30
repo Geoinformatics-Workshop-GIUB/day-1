@@ -12,7 +12,8 @@
   - read about basic Machine Learning concepts. 
 
 ---
-  
+![This is an image](./classificationworkflow.png)
+
 # Part 1: Raster stacking and batch processing in R
 Landsat 8 remote sensing data is provided as individual georeferenced **.tif** images based on their spectral bands. In this task we would like to stack these images into a single geotiff-file, a so-called **_raster stack_**.  
 
