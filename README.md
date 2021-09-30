@@ -44,9 +44,12 @@ Supervised algorithms generally make use of training data to, well, train their 
 [Link to the PDF assignment](./01_02_SamplingQGIS.pdf)
 
 Answer these questions to prove your knowledge:
-• Sum up the requirements to optimally generate training samples!
+- Sum up the requirements to optimally generate training samples!
+
 >YOUR ANSWER HERE
-•	Briefly summarize how to approach the amount of training data you need!
+
+- Briefly summarize how to approach the amount of training data you need!
+
 >YOUR ANSWER HERE
 
 
