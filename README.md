@@ -37,7 +37,7 @@ Now that we have prepared our raster data, we need to create training samples in
 
 [Link to the PDF assignment](./01_02_SamplingQGIS.pdf)
 
-Answer these questions to prove your knowledge:
+You may use these questions to test your understanding:
 - Sum up the requirements to optimally generate training samples!
 
 >YOUR ANSWER HERE
