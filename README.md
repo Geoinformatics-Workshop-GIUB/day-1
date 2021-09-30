@@ -31,7 +31,7 @@ These intermediate steps are necessary to successfully manage the first part:
 3.	Saving the raster stack 
 4.	Deletion of redundant data
 
-[Link to the R code](./p1_raster_stacking.R)
+[Link to the R code](./01_01_RasterStacking.R)
 
 # Part 2: Creating training samples in QGIS
 
