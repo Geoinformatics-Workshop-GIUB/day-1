@@ -54,11 +54,11 @@ Answer these questions to prove your knowledge:
 
 
 # @Home: Read about image visualization and Machine Learning
+1. If you didn't finish creating your training samples during the designated course time, we recommend you finish it now. 
+2. Please have a look at [this short explanation](01_H_ImageVisualization.pdf) of concepts relevant to the visualization of remote sensing imagery. Ideally, this should be  repetition but realizing that digital images are essentially nothing but matrices filled with digits is rather important to reach an understanding of statistical methods of image classification.
+3. Also skip through [this introduction to Random Forests and other Machine Learning concepts](01_H_MachineLearningBasics.pdf). You do not need to become computer scientists to finish this course but a fundamental understanding of the algorithm we are working with is somewhat required. We are aware that these concepts are out of the comfort zone of many Geographers, so feel free to ask questions on Slack and during the course.
 
-[Link to the PDF assignment](01_H_ImageVisualization.pdf)
-[Link to the PDF assignment](01_H_MachineLearningBasics.pdf)
-
-Answer these questions to prove your knowledge:
+You may use these questions to test your understanding:
 - Why do we use machine learning methods in remote sensing?
 
 >YOUR ANSWER HERE
