@@ -10,7 +10,11 @@
   - wrap up the creation of your training samples.
   - refresh your memory on how to visualize and interpret remote sensing imagery.
   - read about basic Machine Learning concepts. 
-
+  
+## Tomorrow we will...
+  - learn how to visualize raster images in R
+  - extract our training samples' spectral signature into a dataframe
+  - fit our Random Forest model and perform image classification
 ---
 
 # Part 0: Introduction
