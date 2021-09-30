@@ -55,4 +55,19 @@ Answer these questions to prove your knowledge:
 
 # @Home: Read about image visualization and Machine Learning
 
+[Link to the PDF assignment](01_H_ImageVisualization.pdf)
+[Link to the PDF assignment](01_H_MachineLearningBasics.pdf)
+
+Answer these questions to prove your knowledge:
+- Why do we use machine learning methods in remote sensing?
+
+>YOUR ANSWER HERE
+
+- What is the difference between supervised and unsupervised algorithms?
+
+>YOUR ANSWER HERE
+
+- Define the Out-Of-Bag (OOB) error using your own words.
+
+>YOUR ANSWER HERE
 
