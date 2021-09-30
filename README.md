@@ -1,10 +1,10 @@
 # Day 1 - Welcome, Raster stacking, sampling of training data
 
-## Today you will learn... 
+## Today you will... 
 
-  - how to create a raster stack of several satellite image bands, a form of pre-processing in R.
-  - how to automate that process (batch processing) for an arbitrary amount of images in R.
-  - how to create training/validation data samples in QGIS. 
+  - create a raster stack of several satellite image bands in R.
+  - automate that process (batch processing) for an arbitrary amount of images in R.
+  - create training/validation data samples in QGIS. 
 
 ## At home you are supposed to...
   - wrap up the creation of your training samples.
