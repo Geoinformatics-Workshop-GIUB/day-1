@@ -18,6 +18,8 @@
 ---
 
 # Part 0: Introduction
+https://uni-bonn.sciebo.de/s/5JlymrGWAVw20Ze
+
 ![This is an image](./classificationworkflow.png)
 
 # Part 1: Raster stacking and batch processing in R
