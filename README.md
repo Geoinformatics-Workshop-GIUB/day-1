@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="450" height="274" src="./LULCLogosmall.png">
+  <img width="450" height="247" src="./LULCLogosmall.png">
 </p>
 
 # Day 1 - Welcome, Raster stacking, sampling of training data
