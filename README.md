@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img width="460" height="300" src="./LULCLogosmall.png)">
+</p>
+
 ![This is an image](./LULCLogosmall.png)
 
 # Day 1 - Welcome, Raster stacking, sampling of training data
