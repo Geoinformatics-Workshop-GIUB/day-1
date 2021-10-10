@@ -3,7 +3,7 @@
   <img width="450" height="247" src="./LULCLogosmall.png">
 </p>
 
-# Day 1 - Welcome, Raster Stacking, SWampling of Training Data
+# Day 1 - Welcome, Raster Stacking, Sampling of Training Data
 
 ---
 ### Licensing
