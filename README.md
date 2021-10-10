@@ -1,5 +1,6 @@
 # Day 1 - Welcome, Raster stacking, sampling of training data
 
+---
 ### Licensing
 Code used in this class was adapted from XYZ and are licensed under XYZ license. Any additional material, presentations, figures and GitHub classroom pages created for this class are licensed under [GPL-3.0 License](./LICENSE). 
 
