@@ -18,7 +18,8 @@
 ---
 
 # Part 0: Introduction
-https://uni-bonn.sciebo.de/s/5JlymrGWAVw20Ze
+## Data
+[Here is a link to the Landsat-8 scenes we use in this class.](https://uni-bonn.sciebo.de/s/5JlymrGWAVw20Ze) You don't need to use those. If you already have a vision for your own project, you can use your own data instead ( but you might have to adapt the pre-processing part accordingly or skip parts of it).
 
 ![This is an image](./classificationworkflow.png)
 
