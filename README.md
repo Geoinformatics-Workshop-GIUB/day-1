@@ -1,3 +1,5 @@
+![This is an image](./LULCLogo.png)
+
 # Day 1 - Welcome, Raster stacking, sampling of training data
 
 ---
