@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="./LULCLogosmall.png)">
+  <img width="460" height="300" src="./LULCLogosmall.png">
 </p>
 
 ![This is an image](./LULCLogosmall.png)
