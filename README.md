@@ -35,7 +35,14 @@ A raster stack is essentially a stack of multiple raster layers that share the s
 
 # Part 2: Creating training samples in QGIS
 
-Now that we have prepared our raster data, we need to create training samples in QGIS. 
+Now that we have prepared our raster data, we need to create training samples in QGIS. Supervised algorithms make use of training data to, well, train themselves. Simply put, the algorithms needs a reference for the classes you want them to distinguish. An example: If you want to classify forests and urban fabric, your the algorithm needs to be fed the spectral signatures of forest and urban pixels. Apart from tuning an algorithm's working parameters (hyperparameters), the selection of training data is one of the few ways, we, as users, can influence the classification outcome. Thus, the creation/selection of training data is a major part of any attempted supervised classification. The general idea is to create many polygons in QGIS and save them as a vector file. Each of the polygons should cover only a single, spectrally distinct land cover class e.g. forest, meadow, water... Then, we import our training areas to R to extract the spectral signatures of the pixels they cover. 
+
+Here are four basic but important principles to keep in mind when acquiring training data:
+1. Class coverage (amount and contents) has to match classified data/study area, since all data present will be classified. Missing land cover types will lead to erroneous classification by design. 
+2. The spectral signature of used training data needs to match the content of the providedc lass.
+3. Training features (pixels) within the same class need to share some spectral similarities. Large  variances  within  a  class  will  lead  to  errors  when  it  comes  to  class  assignment, especially if the spectral signatures of one class are similar to that of other classes.
+4. The amount of training data should be sufficient. Adding training features to problematic classes (e.g. classes with indistinct spectral signatures) can improve classification results. 
+
 
 [Link to the PDF assignment](./01_02_SamplingQGIS.pdf)
 
@@ -48,9 +55,6 @@ You may use these questions to test your understanding:
 
 >YOUR ANSWER HERE
 
-## What the heck are training samples?
-
-Supervised algorithms generally make use of training data to, well, train their classification mechanisms. Simply put, the algorithms needs a reference for the classes you want them to distinguish. An example: If you want to classify forests and urban fabric, your the algorithm needs to be fed the spectral signatures of forest and urban pixels. Apart from tuning an algorithm's working parameters (hyperparameters), the selection of training data is one of the few ways, we, as users, can influence the classification outcome. Thus, the creation/selection of training data is a major part of any attempted supervised classification. The general idea is to create many polygons in QGIS and save them as a vector file. Each of the polygons should cover only a single, spectrally distinct land cover class e.g. forest, meadow, water... Then, we import our training areas to R to extract the spectral signatures of the pixels they cover. 
 
 # @Home: Read about image visualization and Machine Learning
 1. If you didn't finish creating your training samples during the designated course time, we recommend to wrap this up now. 
