@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+
+<p align="center">
+  <img width="450" height="247" src="./LULCLogosmall.png">
+</p>
 
 You can use the [editor on GitHub](https://github.com/Geoinformatics-Workshop-GIUB/day-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
