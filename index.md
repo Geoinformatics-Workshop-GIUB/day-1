@@ -3,6 +3,8 @@
   <img width="450" height="247" src="./LULCLogosmall.png">
 </p>
 
+./01_01_RasterStacking.R
+
 You can use the [editor on GitHub](https://github.com/Geoinformatics-Workshop-GIUB/day-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
